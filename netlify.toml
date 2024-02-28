@@ -1,0 +1,4 @@
+    [[redirects]]
+    from = "/*"
+    to = "/BOGO.html"
+    status = 200
